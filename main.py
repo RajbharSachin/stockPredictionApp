@@ -20,7 +20,7 @@ period = n_years * 365
 
 
 # load stock data using yahoo-finance
-@st.cache
+@st.cache_data
 def load_data(ticker):
     data = yf.download(ticker, START, TODAY)
     data.reset_index(inplace=True)
