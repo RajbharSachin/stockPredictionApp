@@ -4,5 +4,5 @@ Developing trading & stock prediction machine learning models with the help of P
 Data is collected with the help of Yahoo Finance - Python Library
 
 Install the Dependencies:
-*pip install streamlit prophet yfinance
+** pip install streamlit prophet yfinance
 Namaste Dunia! 🚀 Let's cook up some Python goodness to make our machines trade like wizards, without us lifting a finger. 
